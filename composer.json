@@ -1,0 +1,11 @@
+{
+    "name": "oscarduran/hello-world-composer",
+    "description": "bla si bla si",
+    "authors": [
+        {
+            "name": "OscarDuranX",
+            "email": "oscarduran@iesebre.com"
+        }
+    ],
+    "require": {}
+}
